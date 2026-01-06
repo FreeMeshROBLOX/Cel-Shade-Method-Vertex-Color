@@ -42,19 +42,19 @@ Instructions for someone that may be using the production version of this projec
 At the time this method was discovered, Blender **3.6** was used.
 This version is now outdated, but newer Blender versions can also be used.
 You only need to find compatible addon versions for your Blender release.
-[https://www.blender.org/download/](https://www.blender.org/download/)
+[Download Blender](https://www.blender.org/download/)
 
 ### Addons used
 
 The following Blender addons were used during development:
 
 * **Vertex Color Plus**
-  [https://github.com/oRazeD/VertexColorPlus](https://github.com/oRazeD/VertexColorPlus)
+  [here](https://github.com/oRazeD/VertexColorPlus)
 
 * **Vertex Color Master**
-  [https://github.com/andyp123/blender_vertex_color_master](https://github.com/andyp123/blender_vertex_color_master)
+  [here](https://github.com/andyp123/blender_vertex_color_master)
 
 * **Bake to Vertex Color**
-  [https://3dbystedt.gumroad.com/l/zdgxg](https://3dbystedt.gumroad.com/l/zdgxg)
+  [here](https://3dbystedt.gumroad.com/l/zdgxg)
 
 ---
