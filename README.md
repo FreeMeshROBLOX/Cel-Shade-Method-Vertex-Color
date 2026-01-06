@@ -1,5 +1,5 @@
 # Documentation Method Cel-Shade: Method Vertex Color
-This is a brief description of this method. 
+Cel-Shade: Method Vertex Color that a way to achive cool style effect wihch u can use for roblox places project and etc and here explation how to do that.
 
 ## Introduction
 
