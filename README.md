@@ -1,4 +1,5 @@
 # Documentation Method Cel-Shade: Method Vertex Color
+This is a brief description of this method. 
 
 ## Introduction
 
