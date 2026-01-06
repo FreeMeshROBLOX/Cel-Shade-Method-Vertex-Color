@@ -49,12 +49,11 @@ You only need to find compatible addon versions for your Blender release.
 The following Blender addons were used during development:
 
 * **Vertex Color Plus**
-  [here](https://github.com/oRazeD/VertexColorPlus)
+  [Vertex Color Plus](https://github.com/oRazeD/VertexColorPlus)
 
 * **Vertex Color Master**
-  [here](https://github.com/andyp123/blender_vertex_color_master)
+  [Vertex Color Master](https://github.com/andyp123/blender_vertex_color_master)
 
-* **Bake to Vertex Color**
-  [here](https://3dbystedt.gumroad.com/l/zdgxg)
+* **[Bake to Vertex Color](https://3dbystedt.gumroad.com/l/zdgxg)**
 
 ---
