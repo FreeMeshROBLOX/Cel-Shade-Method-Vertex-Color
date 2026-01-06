@@ -1,4 +1,4 @@
-# Internal Documentation Example
+# Documentation Method Cel-Shade: Method Vertex Color
 
 This is an example repo that can be copied into the `/docs` folder of your codebase. It follows [the Diátaxis method](https://diataxis.fr/) of technical documentation management. Here are some useful sections to keep in the README of your project.
 
