@@ -53,13 +53,4 @@ The following Blender addons were used tool for modificated mesh:
 
 * **[Bake to Vertex Color](https://3dbystedt.gumroad.com/l/zdgxg)**
 ### Old Video
-
-<p align="center">
-  <a href="https://youtu.be/Dcj6fNwTie0">
-    <img src="https://img.youtube.com/vi/Dcj6fNwTie0/maxresdefault.jpg" width="800">
-  </a>
-</p>
-
-<p align="center">
-  ▶️ <a href="https://youtu.be/Dcj6fNwTie0">Watch Demo on YouTube</a>
-</p>
+[![Cel Shade Demo](https://img.youtube.com/vi/Dcj6fNwTie0/maxresdefault.jpg)](https://youtu.be/Dcj6fNwTie0)
