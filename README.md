@@ -56,14 +56,11 @@ The following Blender addons were used during development:
 
 * **Vertex Color Plus**
   [https://github.com/oRazeD/VertexColorPlus](https://github.com/oRazeD/VertexColorPlus)
-  Free
 
 * **Vertex Color Master**
   [https://github.com/andyp123/blender_vertex_color_master](https://github.com/andyp123/blender_vertex_color_master)
-  Free
 
 * **Bake to Vertex Color**
   [https://3dbystedt.gumroad.com/l/zdgxg](https://3dbystedt.gumroad.com/l/zdgxg)
-  Free
 
 ---
