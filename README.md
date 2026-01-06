@@ -26,17 +26,17 @@ The shading effect is achieved by combining modified vertex colors with lighting
 
 ### Features and limitations
 
-* + Works on all devices, since it relies only on standard Roblox rendering techniques
-* + Semi-universal, can be applied to almost any object if you know how to work in Blender
-* - Not compatible with all player character mesh combinations
-* - Addition load the twofold increase in resource consumption per model with this effect.
+* (+) Works on all devices, since it relies only on standard Roblox rendering techniques
+* (+) Semi-universal, can be applied to almost any object if you know how to work in Blender
+* (-) Not compatible with all player character mesh combinations
+* (-) Addition load the twofold increase in resource consumption per model with this effect.
 
 ### Sub-Method
-For now this method have 3 sub solution some problem you can combine all off this to solve you problem.
-Also i give hime name.
-* Orign Vertex which requred some tools knowladge in blender and slower need do by hand 
-* Simpler simpler automatic method, but it is only suitable for simpler objects in terms of coloring and does not support textures.
-* Static approach that allows you to support objects with textures, but it only works for static objects.
+For now this method have 3 sub solution for some problem. You can combine it all to solve you problem.
+Also i give hime logical name.
+* Original: Vertex which requred some tools knowladge in blender and slower need do by hand 
+* Simpler: simpler automatic method, but it is only suitable for simpler objects in terms of coloring and does not support textures.
+* Static: approach that allows you to support objects with textures, but it only works for static objects.
 
 ## Getting Started
 How to do that?
