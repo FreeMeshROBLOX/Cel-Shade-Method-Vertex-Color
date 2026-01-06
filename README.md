@@ -1,5 +1,6 @@
 # Documentation Method Cel-Shade: Method Vertex Color
-Cel-Shade: Vertex Color Method is a simple technique to achieve a stylized cel-shaded look for Roblox places and projects. This repository explains how the method works and how to apply it in practice.
+Cel-Shade: Vertex Color Method is a simple technique to achieve a stylized cel-shaded look for Roblox places and projects. 
+This repository explains how the method works and how to apply it in practice.
 
 ## Introduction
 This is one of my personal methods for achieving a cel-shaded look in Roblox.
