@@ -41,8 +41,7 @@ Instructions for someone that may be using the production version of this projec
 
 At the time this method was discovered, Blender **3.6** was used.
 This version is now outdated, but newer Blender versions can also be used.
-You only need to find compatible addon versions for your Blender release.
-[Download Blender](https://www.blender.org/download/)
+You only need to find compatible addon versions for your [Blender release](https://www.blender.org/download/).
 
 ### Addons used
 
