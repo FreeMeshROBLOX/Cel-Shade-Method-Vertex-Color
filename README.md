@@ -26,10 +26,10 @@ The shading effect is achieved by combining modified vertex colors with lighting
 
 ### Features and limitations
 
-* (+) Works on all devices, since it relies only on standard Roblox rendering techniques
-* (+) Semi-universal, can be applied to almost any object if you know how to work in Blender
-* (-) Not compatible with all player character mesh combinations
-* (-) Addition load the twofold increase in resource consumption per model with this effect.
+- [x] Works on all devices, since it relies only on standard Roblox rendering techniques
+- [x] Semi-universal, can be applied to almost any object if you know how to work in Blender
+- [ ] Not compatible with all player character mesh combinations
+- [ ] Addition load the twofold increase in resource consumption per model with this effect.
 
 ### Sub-Method
 For now this method have 3 sub solution for some problem. You can combine it all to solve you problem.
